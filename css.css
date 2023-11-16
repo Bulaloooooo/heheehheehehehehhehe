@@ -1,0 +1,1727 @@
+@media only screen and (max-width: 600px ) {
+	
+	.buttonDiv{
+		margin-top: -5.5vw;
+	}
+	
+	.buttonColor{
+		width: 40vw;
+	}
+	
+	.buttonText{
+		font-size: 12px;
+		
+	}
+	.logopic{
+		height: 150px;
+		width: 350px;
+		top: 50%;
+	}
+	
+	.logodiv{
+		height: 50%;
+	}
+	
+	
+	/*First page*/
+	
+	.navLogo{
+		width: 150px;
+		height: 40px;
+		margin-top: 3vw;	
+		margin-left: 3vw;
+		position: absolute;
+	}
+	
+	.navbox{
+		width: 100%;
+		background-color: #113F67;
+		height: 70px;
+		position:absolute;
+	}
+	
+	.navvi{
+		display: flex;
+		justify-content: end; 
+		list-style-type: none;
+		margin-right: 5vw;
+	}
+	
+	.padds{
+		font-size: 12px;
+		margin-left:15px;
+		margin-right:2vw;
+		color: fff;
+		margin-top: 6vw;
+	}
+	
+	/*Home page*/
+	
+	.mottobox{
+		height: 120vw;
+	}
+	.motto{
+		left: 10vw;
+		top: 25vw;
+	}
+	
+	.univmotto{
+		font-size: 3.5vw;
+		left: 2.5vw;
+	}
+	
+	.univmotto1{
+		font-size: 7.5vw;
+		top: 5.5vw;
+		width: 45vw;
+		text-align: center;
+		left: -4vw;
+	}
+	
+	.univmotto2{
+		font-size: 3.4vw;
+		width: 40vw;
+		top: 30.5vw;
+		text-align: center;
+		left:-1vw;
+	}
+	
+	.imgprof{
+		top: 7vw;
+		left:  50vw;
+		box-shadow: 0.9vw 0.9vw gray;
+	}
+	
+	.imgprof1{
+		top: 35vw;
+		left: 50vw;
+		box-shadow: 0.9vw 0.9vw gray;
+	}
+	.profjp{
+		width: 35vw;
+		height: 20vw;
+	}
+	
+	.profjp1{
+		width:35vw;
+		height:20vw;
+	}
+	
+	.mottobutton{
+		top: 70vw;	
+		left: 15vw;
+		width: 50vw;
+		height: 15vw;
+		box-shadow: 0.9vw 0.9vw gray;
+	}
+	
+	.btntesst{
+		font-size: 3.5vw;
+		color: fff;
+	}
+	
+	.btntesst1{
+		font-size: 2.8vw;
+		margin-top: -2vw;
+		text-decoration: underline;
+		color: fff;
+	}
+	
+	.admission{
+		left: 10vw;
+		height: 80vw;
+		position: relative;
+	}
+	
+	.admissionbox{
+		height: 78vw;
+		width: 80vw;
+	}
+	
+	.admijpg{
+		width: 40vw;
+		height: 40vw;
+		left: 20vw;
+		top: 3vw;
+		box-shadow: 4px 4px gray;
+
+	}
+	
+	.admissiontext{
+		position: absolute;
+		margin-top: -32vw;
+		left: 4vw;
+	}
+	
+	.addd{
+		font-size: 3.2vw;
+		width: 71vw;
+	}
+	
+	.eventone{
+		left: 14vw;
+		top: 20vw;
+		height: 20vw;
+		width: 50vw;
+		box-shadow: 4px 0 gray;
+	}
+	
+	.eventhree{
+		left: 14vw;
+		top: 83vw;
+		height: 20vw;
+		width: 50vw;
+		box-shadow: 4px 0 gray;
+	}
+	
+	.evenfour{
+		left: 14vw;
+		top: 117vw;
+		height: 20vw;
+		width: 50vw;
+		box-shadow: 4px 0 gray;
+	}
+	
+	.evenfive{
+		left: 14vw;
+		top: 150vw;
+		height: 20vw;
+		width: 50vw;
+		box-shadow: 4px 0 gray;
+	}
+	.textbox{
+		font-size:3vw;
+		font-weight: bold;
+		width: 100%;
+		text-align: center;
+		margin-top: 1vw;
+	}
+	
+	.eventtwo{
+		font-size: 1.8vw;
+		font-weight: bold;
+		width: 50vw;
+		text-align: center;
+		margin-top: 1vw;
+		left: 14vw;
+		top: 50vw;
+		height: 14vw;
+		box-shadow: 4px 0 gray;
+	}
+	
+	.onebox{
+		width: 50vw;
+		height: 12vw;
+		box-shadow: 4px 0px gray;
+		top: 10vw;
+		
+	}
+	
+	.onedate{
+		font-size: 4vw;
+		font-weight: bold;
+		width: 100%;
+		text-align: center;
+		margin-top: 2vw;
+	}
+	
+	.boxtext{
+		width: 40vw;
+		height: 12vw;
+		margin-top: -14.4vw;
+		margin-left: 10vw;
+	}
+	
+	.onebox1{
+		width: 11vw;
+		height: 13vw;
+		background-color: #87C0CD;
+		position: absolute;
+		text-align: center;
+		box-shadow: 4px 4px gray;
+	}
+	
+	.xmasimg{
+		width: 50vw;
+		height: 12vw;
+	}
+	
+	.adddheader{
+		font-weight: bold;
+		font-size: 4vw;
+	}
+	
+	.eventtext{
+		font-size: 4vw;
+		margin-top: 8vw;
+	}
+	
+	.eventdiv{
+		left: 10vw;
+	}
+	
+	.eventbox{
+		
+	}
+	
+	.eventhr{
+		width: 80vw;
+	}
+	
+	
+	/*Contact Page*/
+	
+	.conText{
+		font-size: 6vw;
+		color: 000;
+		margin-left: 6vw;
+		margin-top: 10vw;
+		font-weight: bold;
+	}
+	
+	.contactOn{
+		height: 15vw
+	}
+	
+	.navDiv{
+		width: 100%;
+		height: 100px;
+	}
+	
+	.picAddress{
+		width: 12vw;
+		height: 12vw;
+		margin-left: 8vw;
+		margin-top: 6vw;
+		float: left;
+	}
+	
+	.picAddresstext{
+		font-size: 4vw;
+		float: right;
+		margin-top: 9vw;
+		margin-right: 5vw;
+		text-align: center;
+		width:70vw;
+	}
+	
+	.picEmail{
+		width: 12vw;
+		height: 12vw;
+		margin-left:7vw;
+		margin-top: 5vw;
+		float:left;
+	}
+	.picEmailtext{
+		font-size: 4vw;
+		float: left;
+		margin-top: 9vw;
+		margin-left: 35vw;
+		text-align: center;
+		
+	}
+	
+	.picPhone{
+		width: 12vw;
+		height: 12vw;
+		margin-left: 8vw;
+		margin-top: 6vw;
+		float: left;
+	}
+	
+	.picPhonetext{
+		font-size: 4vw;
+		float: left;
+		margin-top: 9vw;
+		margin-left: 45vw;
+		text-align: center;
+		
+	}
+
+	.picsIg{
+		width: 18vw;
+		height: vw;
+		margin-left: 6vw;
+		margin-top: 3vw;
+		float: left;
+	}
+	
+	.picIgtext{
+		font-size: 4vw;
+		margin-top: 9vw;
+		text-align: center;
+		margin-left: 12vw;
+	}	
+	
+	.picFb{
+		width: 12vw;
+		height: 12vw;
+		margin-left: 8vw;
+		margin-top: 4vw;
+		float: left;		
+	}
+	.picFbText{
+		font-size: 4vw;
+		float: left;
+		margin-top: 9vw;
+		text-align: center;
+		margin-left: 40vw;
+	}
+	
+	.picX{
+		width: 23vw;
+		height: 23vw;
+		margin-left: -22vw;
+		margin-top: 2vw;
+		float: left;		
+	}
+	.picXText{
+		font-size: 4vw;
+		margin-top:11vw;
+		margin-left: 11vw;
+		text-align: center;
+		
+	}
+	
+	.contactDivv{
+		width: 100%;
+		height: 20vw;
+	}
+	
+	.emailDivv{
+		width: 100%;
+		height: 20vw;
+	}
+	
+	.phoneDivv{
+		width: 100%;
+		height: 20vw;
+	}
+	.fbDivv{
+		width: 100%;
+		height: 20vw;
+	}
+	.igDivv{
+		width: 100%;
+		height: 20vw;
+	}
+	.xPics{
+		margin-right: 1vw;
+		width: 20vw;
+		height: 20vw;
+		float: left;
+	}
+	
+	.contactPics1{
+		margin-right: 5vw;
+		width: 20vw;
+		height: 20vw;
+		float: left;
+		margin-left: 1.5vw;
+	}
+	
+	.contactpics6{
+				margin-right: 5vw;
+		width: 20vw;
+		height: 20vw;
+		float: left;
+		margin-left: 1.5vw;
+	}
+	.textcon{
+		width: 100%;
+		text-align: center;
+		float: left;
+		position: absolute;
+	}
+	
+	.textcon1{
+		width: 100%;
+		text-align: center;
+		float: right;
+		position: absolute;
+	}
+	
+	.textcon2{
+		width: 100%;
+		text-align: center;
+		float: left;
+		position: absolute;
+	}
+	
+	.textcon3{
+		width: 100%;
+		text-align: center;
+		float: right;
+		position: absolute;
+	}
+	
+	.textcon4{
+		width: 100%;
+		text-align: center;
+		float: left;
+		position: absolute;
+	}
+	
+	.textcon5{
+		width: 100%;
+		text-align: center;
+		float: right;
+		position: absolute;
+	}
+	
+	.adupic{
+		width: 100%;
+		height: 50vw;
+	}
+	
+	.adujpg{
+		width: 100%;
+		height: 100%;
+	}
+	
+	.aduBox{
+		width: 100%;
+		height: 50vw;
+		
+	}
+	
+	.buo{
+		width: 100%;
+		height: 135vw;
+		margin-top: 10vw;
+	}
+	
+	.infobox{
+		width: 50%;
+		height: 9vw;
+		margin-top: -4.4vw;
+	}
+	
+	.infotx{
+		margin-right: -12vw;
+	}
+	
+	.infopic{
+		width: 7vw;
+		height: 7vw;
+		margin-top: 1vw;
+		margin-left: -20vw;
+	}
+	.hehe{
+		margin-top: -8vw;
+		margin-left: 50vw;
+		border-top: 4.5vw solid transparent;
+		border-left: 6.1vw solid #87c0cd;
+		border-bottom: 4.5vw solid transparent;	
+	}
+	.unattext{
+		font-size: 3.5vw;
+		font-weight: bold;
+		margin-top: 22vw;
+		margin-left: 7vw;
+	}
+	
+	.nexttex{
+		font-size: 3vw;
+		margin-top: 28vw;
+		margin-left: 7vw;
+		width: 40vw;
+	}
+	
+	.adubutton{
+		width: 20vw;
+		height: 5vw;
+		margin-top: 25vw;
+		margin-left: 65vw;
+	}
+	
+	.adbtnt{
+		font-size: 3vw;
+		height: 9vw;
+		width: 100%;
+	}
+	
+	.adbtncol{
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		margin: 0;
+		height: 9vw;
+		width: 100%;
+		height: 9vw;
+	}
+	
+	.aduaddbox{
+		height: 50vw;
+	}
+	
+	.adumailDiv{
+		width: 100%;
+		height: 50vw;
+	}
+	
+	.mailpicc{
+		height: 50vw;
+	}
+	.adumailjpg{
+		height: 100%;
+	}
+	
+	.emailpic{
+		width: 7vw;
+		height: 7vw;
+		margin-top:1vw;
+		margin-left: -20vw;
+		position: absolute;
+	}
+	
+	.adumailbox{
+		height: 50vw;
+	}
+	
+	.adumailbox{
+		height: 50vw;
+	}
+	
+	.emailpic{
+		width: 7vw;
+		height: 7vw;
+		margin-left: -17vw;
+		margin-top: 0.5vw;
+		position: absolute;
+		z-index: -1;
+	}
+	
+	.emailpicbox{
+		left: 15vw;	
+	}
+	
+	.emailpics{
+		width: 10vw;
+		height: 10vw;
+		top: 13vw;
+	}
+	
+	.infftxtt{
+		font-size: 3vw;
+		top: 20vw;
+		left: -12vw;
+	}
+
+	.infftxttfb{
+		font-size: 3vw;
+		top: 38vw;
+		left: -15vw;
+	}
+	
+	.infftxttig{
+		font-size: 3vw;
+		top: 20vw;
+		left: -10vw;
+	}
+	
+	.infftxttx{
+		font-size: 3vw;
+		top: 38vw;
+		left: -1vw;
+	}
+
+	.fbpicbox{
+		left: 32vw;	
+	}
+	
+	.fbpics{
+		width: 10vw;
+		height: 10vw;
+		top:  30vw;
+	}
+	.igpicbox{
+		left: 60vw;	
+	}
+	
+	.igpics{
+		width: 15vw;
+		height: 15vw;
+		top:  10vw;
+	}
+	
+	.xpicbox{
+		left: 80vw;	
+	}
+	
+	.xpics{
+		width: 17vw;
+		height: 17vw;
+		top:  27vw;
+		left: -1vw;
+	}
+	
+}
+
+@media only screen and (min-width: 610px){
+	
+	.eventhr{
+		width: 85vw;
+	}
+	.buttonDiv{
+		margin-top: -1.5vw;
+	}
+	
+	.buttonColor{
+		width: 40vw;
+	}
+	
+	.buttonText{
+		font-size: 12px;
+	}
+	
+	.logopic{
+		width: 560px;
+		height: 250px;
+		top: 50%;
+	}
+	
+	/*First Page*/
+	
+	.logodiv{
+		height: 50%;
+	}
+	.navLogo{
+		width: 380px;
+		height: 90px;
+		margin-left: 2vw;
+		margin-top: 0.5vw;
+	}
+	.navbox{
+		width: 100%;
+		background-color: #113F67;
+		height: 105px;	
+	}
+	
+	.padds{
+		font-size: 20px;
+		margin-left: 40px;
+		margin-right: 40px;
+		color: fff;
+		margin-top: 0.2vw;
+	}
+	
+	.navDiv{
+		width: 100%;
+		height: 9.8vw;
+	}
+	
+	.navvi{
+		margin-top: -4vw;
+		margin-left: 10vw;
+		text-align: center;
+		display: flex;
+		justify-content: center; 
+		list-style-type: none;
+	}
+	
+	/*Home page*/
+	
+	.mottobox{
+		height: 40vw;
+
+	}
+	.motto{
+		left: 10vw;
+		top: 10vw;
+	}
+	
+	.univmotto{
+		font-size: 2vw;
+	}
+	
+	.univmotto1{
+		width: 30vw;
+		top: 3vw;
+		font-size: 3.7vw;
+	}
+	
+	.univmotto2{
+		font-size: 1.5vw;
+		width: 40vw;
+		top: 10vw;
+	}
+	
+	.profjp{
+		
+		width: 20vw;
+		height: 13vw;
+	}
+	
+	.profjp1{
+		width: 20vw;
+		height: 13vw;
+	}
+	
+	.imgprof{
+		top: 3.5vw;
+		left: 40vw;
+		box-shadow: 4px 4px gray;
+	}
+
+	.imgprof1{
+		top: 3.5vw;
+		left: 64vw;
+		box-shadow: 4px 4px gray;
+	}
+	
+	.mottobutton{
+		top: 25vw;
+		left: 25vw;
+		width: 28vw;
+		height: 7.5vw;
+		box-shadow: 4px 4px gray;
+		
+	}
+	.btntesst{
+		font-size: 2vw;
+		color: fff;
+	}
+	
+	.btntesst1{
+		font-size: 1.5vw;
+		top: 3vw;
+		text-decoration: underline;
+		color: fff;
+	}
+	
+	
+	.admissionbox{
+		height: 35vw;
+		width: 70vw;
+	}
+	
+	.admijpg{
+		width: 30w;
+		height: 30vw;
+		left: 3vw;
+		top: 2.3vw;
+		box-shadow: 4px 4px gray;
+	}
+	
+	.admission{
+		left: 14vw;
+		top: 10vw;
+		height: 50vw;
+	}
+	
+	.admissiontext{
+		top: 5vw;
+		width: 34vw;
+		left: 35vw;
+	}
+	
+	.addd{
+		font-size: 1.8vw;
+		color: fff;
+	}
+	.adddheader{
+		font-size: 2.5vw;
+		font-weight: bold;
+		color: fff;
+	}
+	
+	.eventdiv{
+		left: 10vw;
+	}
+	
+	.eventtext{
+		font-size: 2vw;
+	}
+	.onebox{
+		width: 20vw;
+		height: 6vw;
+	}
+	
+	.xmasimg{
+		width: 100%;
+		height: 100%;
+	}
+	
+	.onebox1{
+		width: 5vw;
+		height: 6vw;
+		background-color:#87C0CD;
+		position: absolute;
+		text-align: center;
+		box-shadow: 4px 4px gray;
+		
+	}
+	
+	.onedate{
+		font-size: 1.8vw;
+		font-weight: bold;
+		width: 100%;
+		text-align: center;
+		margin-top: 1vw;
+	}
+	
+	.boxtext{
+		width: 15vw;
+		height: 6.25vw;
+		margin-top: -7.3vw;
+		margin-left: 5vw;
+		text-align: center;
+
+	}
+	
+	.textbox{
+		width: 13vw;
+		font-size: 1.5vw;
+		margin-left: 1vw;
+	}
+	
+	.eventone{
+		left: 2vw;
+		top: 10vw;
+		box-shadow: 4px 4px gray;
+		z-index: -1;
+	}
+	
+	.eventtwo{
+		left: 30vw;
+		top: 10vw;
+		box-shadow: 4px 4px gray;
+		z-index: -1;
+	}
+	
+	.eventhree{
+		top: 10vw;
+		left: 58vw;
+		box-shadow: 4px 4px gray;
+		z-index: -1;
+	}
+	
+	.evenfour{
+		top: 30vw;
+		left: 16vw;
+		box-shadow: 4px 4px gray;
+		z-index: -1;
+	}
+	
+	.evenfive{
+		top: 30vw;
+		left: 45vw;
+		box-shadow: 4px 4px gray;
+		z-index: -1;
+	}
+	
+	/*Contact page*/
+	
+	.contentTwo{
+		width: 100%;
+		height: 20vw;
+	}
+	.contactDivv{
+		width: 30vw;
+		height: auto;
+		position: absolute;
+		margin-left: 8vw;
+	}
+	.conText{
+		font-size: 1.8vw;
+		color: 000;
+		margin-left: 9vw;
+		margin-top: 6vw;
+		font-weight: bold;	
+	}
+	
+	.contactPics{
+		margin-left: 10vw;
+		width: 10vw;
+	}
+	
+	.contactPics1{
+		margin-left: 45vw;
+		margin-bottom: 0.4vw;
+		width: 12vw;
+		float: left;
+		position: relative;
+	}
+	
+	.picclass{
+		width: 5vw;
+		height: 5vw;
+	}
+	
+	.contactOn{
+		height: 13vw;
+	}
+	
+	
+	/*Contact pictures*/
+	
+	.contactOne{
+		height: 18vw;
+	}
+	.contactPics2{
+		margin-left: 11vw;
+		margin-bottom: 0.4vw;
+		width: 12vw;
+		float: left;
+		position: relative;
+	}
+	.picAddress{
+		width: 8vw;
+		height: 8vw;
+		position: relative;
+	}
+	.picAddresstext{
+		width: 18vw;
+		text-align: center;
+		font-size: 1.5vw;
+		margin-left: 5vw;
+	}
+	
+	.textcon{
+		text-align:center;	
+	}
+	
+	.emailDivv{
+		float: left;
+		width: 60vw;
+	}
+	.picEmail{
+		width: 8vw;
+		height: 8vw;
+		float:left;
+		position: relative;
+		margin-top: 1vw;
+	}
+	.picEmailtext{
+		text-align: center;
+		font-size: 1.5vw;
+		width: 18vw;
+		margin-left: 40vw;
+		margin-top:11vw;
+	}
+	
+	.textCon1{
+		margin-top: 2vw;
+	}
+	.picPhone{
+		width: 8vw;
+		height: 8vw;
+		float: left;
+		position: relative;
+		margin-top: 1vw;
+	}
+	
+	.textCon2{
+		margin-top: 2vw;
+	}
+	.picPhonetext{
+		text-align: center;
+		font-size: 1.5vw;
+		width: 18vw;
+		margin-left: 66vw;
+		position: absolute;
+		margin-top: 11vw;
+	}
+	
+	.fbDivv{
+		width: 30vw;
+		height: auto;
+		position: absolute;
+		margin-left: 8vw;
+	}
+	
+	.contactPics4{
+		margin-left: 10vw;
+		width: 10vw;
+		
+	}
+	
+	.picFb{
+		width: 8vw;
+		height: 8vw;
+		position: relative;
+	}
+	
+	.picfbtext{
+		width: 18vw;
+		text-align: center;
+		font-size: 1.5vw;
+		margin-left: 5vw;
+		margin-top: 2vw;
+	}
+	
+	.igDivv{
+		float: left;
+		width: 60vw;
+	}
+	
+	.contactpics5{
+		margin-left: 27vw;
+		margin-bottom: 0.4vw;
+		width: 12vw;
+		float: left;
+		position: relative;	
+	}
+	
+	.picsIg{
+		width: 11vw;
+		height: 11vw;
+		float: left;
+		position: relative;
+		margin-top: -1vw;
+		margin-left: 17vw;
+	}
+	
+	.picIgtext{
+		text-align: center;
+		font-size: 1.5vw;
+		width: 18vw;
+		margin-left: 41vw;
+		margin-top: 10vw;
+	}
+	
+	.xDivv{
+		
+	}
+	
+	.contactPics6{
+		margin-left: 71vw;
+		margin-bottom: 0.4vw;
+		width: 12vw;
+		float: left;
+		position: absolute;
+	}
+	
+	.picx{
+		width: 13vw;
+		height: 13vw;
+		float: left;
+		position: relative;
+		margin-top: -2vw;
+		margin-left: -3vw;
+	}
+	
+	.picxtext{
+		text-align: center;
+		font-size: 1.5vw;
+		width: 18vw;
+		margin-left: 66vw;
+		position: absolute;
+		margin-top: 10vw;
+	}
+	
+	.adujpg{
+		width: 100%;
+		height: 100%;
+	}
+	
+	.adupic{
+		width: 100%;
+		height: 25vw;
+	}
+	
+	.adubox{
+		height: 25vw;
+		width: 50%;
+	}
+	
+	.infobox{
+		width: 40vw;
+		height: 8vw;
+		margin-top: -4vw;
+	}
+	
+	.infoboxright{
+		width: 40vw;
+		height: 8vw;
+		margin-left: 58.9vw;
+	}
+	.infotx{
+		margin-right: -10vw;
+	}
+	
+	.infopic{
+		width: 6vw;
+		height: 6vw;
+		margin-left: -17vw;
+		margin-top: 1vw;
+	}
+	
+	.hehe{	
+		margin-left: 40vw;
+		margin-top: -8vw;
+		border-top: 4.1vw solid transparent;
+		border-left: 5.7vw solid #87c0cd;
+		border-bottom: 4.1vw solid transparent;	
+	}
+	
+	.unattext{
+		font-size: 2vw;
+		font-weight: bold;
+		margin-top: 12vw;
+		margin-left: 7vw;
+	}
+	
+	.nexttex{
+		font-size: 1.5vw;
+		margin-top: 16vw;
+		margin-left: 7vw;		
+	}
+	
+	.adubutton{
+		width: 20vw;
+		height: 5vw;
+		margin-top: 11vw;
+		margin-left: 65vw;
+	}
+	
+	.adbtnt{
+		font-size: 1.5vw;
+	}
+	
+	.aduaddbox{
+		height: 25vw;
+	}
+	
+	.adbtncol{
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		margin: 0;
+		height: 100%;
+		width: 100%;
+	}
+	
+	.adumaildiv{
+		height: 25vw;
+	}
+	
+	.mailpicc{
+		height: 25vw;
+	}
+	.adumailjpg{
+		height: 100%;
+		position:;
+	}
+	
+	.adumailbox{
+		height: 25vw;
+	}
+	
+	.emailpic{
+		width: 7vw;
+		height: 7vw;
+		margin-left: -17vw;
+		margin-top: 0.5vw;
+		position: absolute;
+		z-index: -1;
+	}
+	
+	.emailpicbox{
+		left: 11vw;	
+	}
+	
+	.emailpics{
+		width: 7.5vw;
+		height: 7.5vw;
+		top: 10vw;
+	}
+	
+	.infftxtt{
+		font-size: 1.5vw;
+		top: 17vw;
+		left: -5vw;
+	}
+
+	.infftxttfb{
+		font-size: 1.5vw;
+		top: 17vw;
+		left: -7vw;
+	}
+	
+	.infftxttig{
+		font-size: 1.5vw;
+		top: 17vw;
+		left: -3vw;
+	}
+	
+	.infftxttx{
+		font-size: 1.5vw;
+		top: 17vw;
+		left: 1vw;
+	}
+
+	.fbpicbox{
+		left: 35vw;	
+	}
+	
+	.fbpics{
+		width: 7vw;
+		height: 7vw;
+		top: 10vw;
+	}
+	.igpicbox{
+		left: 58vw;	
+	}
+	
+	.igpics{
+		width: 9vw;
+		height: 9vw;
+		top: 9.5vw;
+	}
+	
+	.xpicbox{
+		left: 80vw;	
+	}
+	
+	.xpics{
+		width: 10vw;
+		height: 10vw;
+		top: 9vw;
+	}
+	
+}
+
+@media only screen and (min-width: 1600px){
+	
+	.navvi{
+	text-align: center;
+	display: flex;
+	justify-content: center; 
+	list-style-type: none;
+	margin-top: -3vw;
+}
+	.buttonColor{
+		width: 20vw;
+		height: 3vw;
+		top: 50%;
+	}
+	
+	.buttonDiv{
+		margin-top: -1.5vw;
+	}
+	
+	.buttonText{
+		font-size: 20px;
+		margin-top: 0.8vw;
+	}
+	.logopic{
+		width: 600px;
+		height: 250px;
+		top: 50%;
+	}
+	
+	.logodiv{
+		height: 50%;
+	}
+	
+	/*First Page*/
+	.navLogo{
+		width: 400px;
+		height: 80px;
+		margin-left: 30px;
+		margin-top: 5px;
+		
+	}
+	
+	.imgbox{
+		width:100%;
+		height: 80px;
+	}
+	.navbox{
+		width: 100%;
+		background-color: #113F67;
+		height: 100px;	
+		position: absolute;
+		z-index: 1;
+	}
+	
+	.padds{
+		font-size: 20px;
+		margin-left: 40px;
+		margin-right: 40px;
+		color: #fff;
+		margin-top: 20px;
+	}
+	
+	/*Contact page */
+	.navDiv{
+		width: 100%;
+		height: 150px;
+	}
+	.contactOne{
+		height: 18vw;
+	}
+	
+	.adubox{
+		height: 25vw;
+	}
+}
+
+body{
+	font-family: "Times New Roman", Times, serif;
+	width: 100%;
+	height: auto;
+	margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.logopic{
+	z-index: 2;
+	text-align: center;
+	position: relative;
+	}
+	
+.logoDiv{
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	width: 100%;
+	z-index: 2;
+}
+
+.header{
+	width:100%;
+	height: 50%;
+}
+
+.upperBg{
+	width: 100%;
+	height: 50%;
+	z-index: -1;
+	position: absolute;
+}
+
+.upperPic{
+	width: 100%;
+	height: 100%;
+	z-index: -1;
+	position: absolute;
+}
+
+.vidv{
+	width:100%;
+	height: 50%;
+	object-fit: cover;
+}
+
+.buttonDiv{
+	width: 100%;
+	position: absolute;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+}
+
+.buttonColor{
+	background-color:#87C0CD;
+	border: 3px solid black;
+}
+
+/*First Page*/
+
+a{
+	text-decoration: none;
+	color: #000;
+}
+
+.navbox{
+	width: 100%;
+	background-color: #113F67;
+}
+
+/*Home page*/
+
+.motto{
+	width: fit-content;
+	position: absolute;
+}
+.mottobox{
+	width: 100%;
+}
+
+.univmotto{
+	position: absolute;
+	width: 50vw;
+}
+
+.univmotto1{
+	position: absolute;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.univmotto2{
+	position: absolute;
+}
+
+.profjpg{
+	position: absolute;
+}
+.profjpg1{
+	position: absolute;
+}
+
+.imgprof{
+	width: fit-content;
+	position: absolute;
+}
+
+.imgprof1{
+	width: fit-content;
+	position: absolute;
+}
+
+.mottobutton{
+	position: absolute;
+	background-color: #226597;
+}
+
+.buttonbox{
+	position: absolute;
+	text-align: center;
+	width: 100%;
+}
+
+.btntesst1{
+	width: 100%;
+	text-align: center;
+	position: absolute;
+}
+
+.newsandtext{
+	position: absolute;
+}
+
+.admission{
+	width: fit-content;
+	position: relative;
+}
+
+.admissionbox{
+	background-color: #87C0CD;
+	box-shadow: 4px 4px gray;
+	
+}
+
+.admijpg{
+	position: relative;
+}
+
+.admissiontext{
+	text-align: center;
+	position: absolute;
+}
+
+.eventbox{
+	width: 100%;
+	height: 45vw;
+}
+
+.eventDiv{
+	width: fit-content;
+	position: absolute;
+}
+
+.eventone{
+	position: absolute;
+}
+
+.eventtwo{
+	position: absolute;
+}
+
+.eventhree{
+	position: absolute;
+}
+
+.evenfour{
+	position: absolute;
+}
+
+.evenfive{
+	position: absolute;
+}
+
+.boxtext{
+	background-color: fff;
+	position: absolute;
+	box-shadow: 4px 4px gray;
+	z-index: -1;	
+}
+/*Contact page*/
+
+.contactDiv{
+	width: 100%;
+	position: absolute;
+}
+
+.contactOn{
+	width: 100%;
+}
+
+.contentInfo{
+	width: 100%;
+}
+
+.contactOne{
+	width: 100%;
+}
+
+
+.adubox{
+	position: absolute;
+}
+
+.unattext{
+	position:absolute;
+	z-index: 3;
+}
+.adubutton{
+	position: absolute;
+	z-index: 2;
+}
+
+.adbtnt{
+	position:absolute;
+	z-index: 4;
+}
+.infobox{
+	position: absolute;
+	z-index: 2;
+}
+
+.infocolor{
+	background-color: #87C0CD;
+	margin: 0;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+.infopic{
+	z-index: -1;
+	position: absolute;
+}
+.infotx{
+	font-size: 2.5vw;
+	color: fff;
+}
+.hehe{
+}
+
+.adbtncol{
+	
+	background-color: #87C0CD;
+	position: absolute;
+	text-align: center;
+	box-shadow: 4px 4px gray;
+}
+
+.adbtnt{
+	color: fff;		
+	text-align: center;
+	width: 100%;
+	height: 100%;
+}
+
+.aduaddbox{
+	width: 100%;
+	
+}
+
+.adumailDiv{
+	width: 100%;
+}
+
+.mailpic{
+	width: 100%;
+}
+
+.adumailjpg{
+	width: 100%;
+}
+.adumailbox{
+	width: 100%;
+}
+
+.infoboxright{
+	position: absolute;
+	z-index: 2;
+}
+
+.infocolorright{
+	background-color: #87C0CD;
+	margin: 0;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+.emailpicbox{
+	width: fit-content;
+	position: absolute;
+}
+
+.emailpics{
+	position: absolute;
+}
+
+.fbpicbox{
+	width: fit-content;
+	position: absolute;
+}
+
+.fbpics{
+	position: absolute;
+}
+
+.igpicbox{
+	width: fit-content;
+	position: absolute;
+}
+
+.igpics{
+	position: absolute;
+}
+
+.xpicbox{
+	width: fit-content;
+	position: absolute;
+}
+
+.xpics{
+	position: absolute;
+}
+
+.infftxtt{
+	position: absolute;
+	color: 000;
+}
+
+.infftxttfb{
+	position: absolute;
+	color: 000;
+}
+
+.infftxttig{
+	position: absolute;
+	color: 000;
+}
+
+.infftxttx{
+	position: absolute;
+	color: 000;
+}
